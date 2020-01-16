@@ -1,0 +1,167 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "Work Experience",
+    "projects": "Personal Projects",
+    "education": "Education",
+    "skills": "Skills",
+    "awards": "Volunteer Experience"
+  },
+  "basics": {
+    "name": "Sherlock Saravanan",
+    "email": "sankara720@outlook.com",
+    "phone": "+1 (705) 716-3413",
+    "location": {
+      "address": "Toronto, ON"
+    },
+    "website": "sankarans.netlify.com"
+  },
+  "education": [
+    {
+      "location": "Barrie, ON",
+      "area": "Computer Programmer",
+      "startDate": "Sept 2017",
+      "endDate": "Apr 2020",
+      "gpa": "",
+      "institution": "Georgian College"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Developed on an web application that will enable the Digital Accessibility team push towards a self-serve model",
+        "Updated learning pathways, training videos and code samples",
+        "Created and updated the Accessibility team’s Web sites, tools and documentation",
+        ""
+      ],
+      "company": "Royal Bank Of Canada",
+      "position": "Digital Accessibility Analyst (Co-op)",
+      "location": "Toronto, ON",
+      "startDate": "Sept 2019",
+      "endDate": "Dec 2019"
+    },
+    {
+      "company": "Canadian National Institute for the Blind (CNIB)",
+      "location": "Barrie, ON",
+      "position": "Canvasser",
+      "website": "",
+      "startDate": "July 2018",
+      "highlights": [
+        "Promoted CNIB's programs and raised awareness about accessible technology",
+        "Learned how to collaborate and communicate effectively within groups"
+      ],
+      "endDate": "Mar 2019"
+    },
+    {
+      "highlights": [
+        "Resolved product or service issues",
+        "Created and updated miscellaneous documents using MS Office",
+        "Provided technical support for business hardware and software"
+      ],
+      "company": "Angie's Outdoor",
+      "position": "Technical and Customer Support Representative",
+      "location": "Barrie, ON",
+      "startDate": "Nov 2017",
+      "endDate": "Mar 2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "C++",
+        "JavaScript",
+        "Test Driven Development",
+        "C#",
+        "ASP .NET",
+        "SQL",
+        null,
+        null,
+        null,
+        null,
+        "Bash"
+      ]
+    },
+    {
+      "keywords": [
+        "Windows 7, 10, Server 2012",
+        "Linux",
+        null,
+        null
+      ],
+      "name": "Operating Systems:"
+    },
+    {
+      "keywords": [
+        "Express",
+        "React",
+        "Node",
+        "MongoDB"
+      ],
+      "name": "Frameworks"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        null
+      ]
+    },
+    {
+      "keywords": [
+        "ASP.NET",
+        "SQL",
+        "HTML",
+        "C#"
+      ],
+      "name": "Shoe Store",
+      "description": "A simple web application based on ASP.NET using MVC and Entity framework. The purpose of this application is enact as a shoe shop web application",
+      "url": "sankarans.netlify.com"
+    },
+    {
+      "keywords": [
+        "Linux",
+        null
+      ],
+      "name": "Raspberry Pi NAS",
+      "description": "A Network Attached Storage using a Raspberry PI 4 with Debian. Created to be accessed by 3+ devices across multiple Operating Systems."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Office Support",
+      "date": "May 2018",
+      "summary": "Create, edit, review and update various documents and other miscellaneous activities. Troubleshoot various PC and printer problems including setting up devices",
+      "awarder": "COPE Service Dogs Barrie, ON"
+    },
+    {
+      "date": "Nov 2018",
+      "awarder": "Canadian National Institute for the Blind",
+      "title": "Technical Content Writer",
+      "summary": "Created short detailed technical manuals using MS Office for various assistive devices by testing their functionality."
+    },
+    {
+      "title": "Event Volunteer",
+      "date": "Sept 2019",
+      "awarder": "NGI Hackathon, Toronto, ON",
+      "summary": "Helped in miscellaneous activities as well technical support for the participants                           "
+    },
+    {
+      "title": "Event Volunteer",
+      "date": "Oct 2019",
+      "awarder": "Cyber Tech & Risk Conference, Toronto, ON",
+      "summary": "Helped in setting up and guiding visitors"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
